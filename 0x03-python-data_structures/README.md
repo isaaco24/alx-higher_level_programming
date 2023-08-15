@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python - Data Structures: Lists, Tuples
 
 In this project, I learned about how sequence data types work in
@@ -127,3 +128,6 @@ Prototypes for functions written in this project:
   * [100-print_python_list_info.c](./100-print_python_list_info.c): C function that
   prints basic information about Python lists.
 
+=======
+This is my 0x03. alx Python - Data Structures: Lists, Tuples
+>>>>>>> fe40f12c50072cec7f9816acd694da886e059a83
