@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-# 4-new_in_list.py
-
 
 def new_in_list(my_list, idx, element):
     """Replace an element in a copied list at a specific position."""
@@ -10,4 +8,3 @@ def new_in_list(my_list, idx, element):
     copy = [x for x in my_list]
     copy[idx] = element
     return (copy)
-
