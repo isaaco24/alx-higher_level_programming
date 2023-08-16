@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-/*
- * File: 13-is_palindrome.c
- * Auth: Mbah Nkemdinma
- */
-
-=======
->>>>>>> fe40f12c50072cec7f9816acd694da886e059a83
 #include "lists.h"
 
 listint_t *reverse_listint(listint_t **head);
@@ -78,4 +70,3 @@ int is_palindrome(listint_t **head)
 
 	return (1);
 }
-
